@@ -1,0 +1,7 @@
+content_type,source_description,source_width_px,source_height_px,source_size_display,output_format,target_bytes,output_width_px,output_height_px,output_bytes,output_megapixels,bytes_per_pixel,reported_quality_percent,measurement_date,environment
+photograph_landscape,"Bachalpsee reflection photograph",2592,1944,"905 KB",JPEG,20480,630,472,20214,0.30,0.068,40,2026-10-18,"Chrome 155.0.8059.80 on Windows 11"
+photograph_smaller_start,"Same photograph reduced before compression",1280,960,"265 KB",JPEG,20480,622,467,20176,0.29,0.070,40,2026-10-18,"Chrome 155.0.8059.80 on Windows 11"
+page_of_text,"1200x1600 page of 26 px Arial text rendered to PNG",1200,1600,"228 KB",JPEG,20480,298,398,20317,0.12,0.171,41,2026-10-18,"Chrome 155.0.8059.80 on Windows 11"
+smooth_gradient,"2400x1600 smooth vertical gradient",2400,1600,"2.42 MB",JPEG,20480,2097,1398,20480,2.93,0.0070,40,2026-10-18,"Chrome 155.0.8059.80 on Windows 11"
+flat_artwork,"4000x4000 flat-colour graphic with large solid blocks",4000,4000,"82 KB",JPEG,20480,1002,1002,20318,1.00,0.020,43,2026-10-18,"Chrome 155.0.8059.80 on Windows 11"
+transparent_cutout,"3600x3600 PNG with transparent background",3600,3600,"61 KB",JPEG,20480,1402,1402,20410,1.97,0.010,43,2026-10-18,"Chrome 155.0.8059.80 on Windows 11"
